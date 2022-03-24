@@ -35,14 +35,14 @@ Student 1
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_1))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_1))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4b_1))
+Design presentation ([PDF]({{< baseurl >}}/resources/assn4b_1))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/final_1))
+([PDF - 2.5 MB]({{< baseurl >}}/resources/final_1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,14 +56,14 @@ Student 2
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_2))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_2))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4b_2))
+Design presentation ([PDF]({{< baseurl >}}/resources/assn4b_2))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/final_2))
+([PDF - 2.1 MB]({{< baseurl >}}/resources/final_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,14 +77,14 @@ Student 3
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_3))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_3))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/assn4b_3))
+Design presentation ([PDF - 2.1 MB]({{< baseurl >}}/resources/assn4b_3))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6 MB]({{< baseurl >}}/resources/final_3))
+([PDF - 2.6 MB]({{< baseurl >}}/resources/final_3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,14 +98,14 @@ Student 4
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_4))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_4))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB]({{< baseurl >}}/resources/assn4b_4))
+Design presentation ([PDF - 2.2 MB]({{< baseurl >}}/resources/assn4b_4))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/final_4))
+([PDF - 2.0 MB]({{< baseurl >}}/resources/final_4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,14 +119,14 @@ Student 5
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_5))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_5))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3 MB]({{< baseurl >}}/resources/assn4b_5))
+Design presentation ([PDF - 2.3 MB]({{< baseurl >}}/resources/assn4b_5))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/final_5))
+([PDF - 2.0 MB]({{< baseurl >}}/resources/final_5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,14 +140,14 @@ Student 6
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_6))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_6))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB]({{< baseurl >}}/resources/assn4b_6))
+Design presentation ([PDF - 2.2 MB]({{< baseurl >}}/resources/assn4b_6))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/final_6))
+([PDF - 2.1 MB]({{< baseurl >}}/resources/final_6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,14 +161,14 @@ Student 7
 {{< tdopen >}}
 
 
-Renderings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assn4a_7))
+Renderings ([PDF]({{< baseurl >}}/resources/assn4a_7))
 
-Design presentation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3 MB]({{< baseurl >}}/resources/assn4b_7))
+Design presentation ([PDF - 2.3 MB]({{< baseurl >}}/resources/assn4b_7))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_7))
+([PDF]({{< baseurl >}}/resources/final_7))
 {{< tdclose >}}
 
 {{< trclose >}}

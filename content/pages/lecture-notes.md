@@ -28,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to design computing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 - 3.2 MB]({{< baseurl >}}/resources/lec1a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 2.1 MB]({{< baseurl >}}/resources/lec1b))
+Introduction to design computing ([PDF 1 - 3.2 MB]({{< baseurl >}}/resources/lec1a)) ([PDF 2 - 2.1 MB]({{< baseurl >}}/resources/lec1b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +37,7 @@ Introduction to design computing (![This resource may not render correctly in a 
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Solid modeling (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lec2a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 2.0 MB]({{< baseurl >}}/resources/lec2b))
+Solid modeling ([PDF 1]({{< baseurl >}}/resources/lec2a)) ([PDF 2 - 2.0 MB]({{< baseurl >}}/resources/lec2b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Solid modeling (![This resource may not render correctly in a screen reader.](/i
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Advanced modeling (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 - 4.5 MB]({{< baseurl >}}/resources/lec3a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 3.6 MB]({{< baseurl >}}/resources/lec3b))
+Advanced modeling ([PDF 1 - 4.5 MB]({{< baseurl >}}/resources/lec3a)) ([PDF 2 - 3.6 MB]({{< baseurl >}}/resources/lec3b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ Advanced modeling (![This resource may not render correctly in a screen reader.]
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Architectural visualization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.3 MB]({{< baseurl >}}/resources/lec4))
+Architectural visualization ([PDF - 5.3 MB]({{< baseurl >}}/resources/lec4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Design presentations
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Machines and methods for digital fabrication (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.9 MB]({{< baseurl >}}/resources/lec6))
+Machines and methods for digital fabrication ([PDF - 4.9 MB]({{< baseurl >}}/resources/lec6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Machines and methods for digital fabrication (![This resource may not render cor
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Application of digital fabrication (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.3 MB]({{< baseurl >}}/resources/lec7))
+Application of digital fabrication ([PDF - 5.3 MB]({{< baseurl >}}/resources/lec7))
 {{< tdclose >}}
 
 {{< trclose >}}
